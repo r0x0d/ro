@@ -19,6 +19,7 @@ valuable.
 
 - [Resources](#resources)
   - [Programming](#programming)
+    - [Docker](#docker)
     - [Python](#python)
   - [Game Development](#game-development)
   - [Security](#security)
@@ -35,6 +36,7 @@ All of my resources below. Enjoy.
 ### Docker
 
 - (Article) [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
+- (Article) [The best Docker base image for your Python application (Sep 2022)](https://pythonspeed.com/articles/base-image-python-docker-images/)
 
 ### Python
 
