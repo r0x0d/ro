@@ -3,13 +3,20 @@
 Read-only repository to share the resources that helped me build my knowledge
 across the years.
 
->> Keep in mind that some (a lot, actually) of those resources will be random
->> and across different topics. The idea of this repository is to gather and
->> build those resources in a single place, do not expect to find only technical
->> materials here.
+> Keep in mind that some (a lot, actually) of those resources will be random
+> and across different topics. The idea of this repository is to gather and
+> build those resources in a single place, do not expect to find only technical
+> materials here.
 
-- [ro (Read-only)](#ro-read-only)
-- [Contributing](#contributing)
+# Contributing
+
+If you have any interesting resource that you would like to see here, please,
+open an issue pointing out the link and why you think it's a good resource. Any
+pull requests will be welcome, but only if I find that your resource is actually
+valuable.
+
+# Table of Contents
+
 - [Resources](#resources)
   - [Programming](#programming)
     - [Python](#python)
@@ -18,13 +25,6 @@ across the years.
     - [Linux](#linux)
   - [Git](#git)
   - [Misc](#misc)
-
-# Contributing
-
-If you have any interesting resource that you would like to see here, please,
-open an issue pointing out the link and why you think it's a good resource. Any
-pull requests will be welcome, but only if I find that your resource is actually
-valuable.
 
 # Resources
 
