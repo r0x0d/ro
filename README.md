@@ -32,6 +32,10 @@ All of my resources below. Enjoy.
 
 ## Programming
 
+### Docker
+
+- (Article) [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
+
 ### Python
 
 - (Article) [Finding broken slots in popular Python libraries (and so can you!)](https://dev.arie.bovenberg.net/blog/finding-broken-slots-in-popular-python-libraries/)
