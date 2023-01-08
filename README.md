@@ -37,6 +37,8 @@ All of my resources below. Enjoy.
 
 - (Article) [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - (Article) [The best Docker base image for your Python application (Sep 2022)](https://pythonspeed.com/articles/base-image-python-docker-images/)
+- (Article) [Lighten your Python image with Docker multi-stage builds](https://gabnotes.org/lighten-your-python-image-docker-multi-stage-builds/)
+- (Article) [Multi-stage builds #2: Python specifics](https://pythonspeed.com/articles/multi-stage-docker-python/)
 
 ### Python
 
