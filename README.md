@@ -53,6 +53,10 @@ All of my resources below. Enjoy.
 
 ## Security
 
+### Authentication
+
+- (Article) [What Is Federated Authentication? How It Improves Security](https://learn.g2.com/federated-authentication)
+
 ### Linux
 
 - (Guideline) [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide/wiki)
