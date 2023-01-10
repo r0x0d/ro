@@ -66,6 +66,13 @@ All of my resources below. Enjoy.
 - (Article) [Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/)
 - (Aritcle) [My unorthodox, branchless git workflow](https://drewdevault.com/2020/04/06/My-weird-branchless-git-workflow.html)
 
+## Virtualization
+
+### Virtio
+
+- (Article) [QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine](https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/)
+- (Article) [Sharing files with Virtiofs](https://libvirt.org/kbase/virtiofs.html)
+
 ## Misc
 
 Usually things that I don't know how to proper tag.
