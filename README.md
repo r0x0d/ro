@@ -30,8 +30,8 @@ All of my resources below. Enjoy.
 
 # Game Development
 
-- (Wiki) [Thoughts on Combat Models](http://www.roguebasin.com/index.php?title=Thoughts_on_Combat_Models#Determining_whether_you_hit)
-- (Wiki) [List of articles for Roguelike development](http://www.roguebasin.com/index.php/Articles)
+- (Wiki)     [Thoughts on Combat Models](http://www.roguebasin.com/index.php?title=Thoughts_on_Combat_Models#Determining_whether_you_hit)
+- (Wiki)     [List of articles for Roguelike development](http://www.roguebasin.com/index.php/Articles)
 - (Exchange) [How to develop RPG Damage Formulas?](https://gamedev.stackexchange.com/questions/14309/how-to-develop-rpg-damage-formulas)
 
 ## Game Design 
@@ -46,7 +46,7 @@ All of my resources below. Enjoy.
 # Linux
 
 - (Guideline) [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide/wiki)
-- (Aritcle) [Linux Console Essential – Virtual Terminals, Terminal Emulation and configuring locale](https://grimoire.carcano.ch/blog/linux-console-essential-virtual-terminals-terminal-emulation-locale/)
+- (Aritcle)   [Linux Console Essential – Virtual Terminals, Terminal Emulation and configuring locale](https://grimoire.carcano.ch/blog/linux-console-essential-virtual-terminals-terminal-emulation-locale/)
 
 # Misc
 
@@ -64,15 +64,15 @@ Usually things that I don't know how to proper tag.
 
 ## RPM 
 
-- (Manual) (RPM Dependencies)[https://rpm-software-management.github.io/rpm/manual/dependencies.html]
-- (Article) (What is a Dependency, Anyway)[https://weldr.io/RPM-Dependencies/]
-- (Article) (Unpacking RPM: an introduction)[https://weldr.io/Unpacking-RPM-intro/]
-- (Article) (Unpacking RPM: package names)[https://weldr.io/Unpacking-RPM-names/]
-- (Video) (Will Woods, Stephen Gallagher: RPM Scriptlet Reform School)[https://www.youtube.com/watch?v=kE-8ZRISFqA#t=2m33]
+- (Manual)  [RPM Dependencies](https://rpm-software-management.github.io/rpm/manual/dependencies.html)
+- (Article) [What is a Dependency, Anyway](https://weldr.io/RPM-Dependencies/)
+- (Article) [Unpacking RPM: an introduction](https://weldr.io/Unpacking-RPM-intro/)
+- (Article) [Unpacking RPM: package names](https://weldr.io/Unpacking-RPM-names/)
+- (Video)   [Will Woods, Stephen Gallagher: RPM Scriptlet Reform School](https://www.youtube.com/watch?v=kE-8ZRISFqA#t=2m33)
 
 ## Yum
 
-- (Article) (Working with package dependencies on Red Hat Linux)[https://linuxconfig.org/working-with-package-dependencies-on-red-hat-linux]
+- (Article) [Working with package dependencies on Red Hat Linux](https://linuxconfig.org/working-with-package-dependencies-on-red-hat-linux)
 
 # Programming
 
