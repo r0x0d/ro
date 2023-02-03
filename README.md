@@ -68,6 +68,7 @@ Usually things that I don't know how to proper tag.
 - (Article) (What is a Dependency, Anyway)[https://weldr.io/RPM-Dependencies/]
 - (Article) (Unpacking RPM: an introduction)[https://weldr.io/Unpacking-RPM-intro/]
 - (Article) (Unpacking RPM: package names)[https://weldr.io/Unpacking-RPM-names/]
+- (Video) (Will Woods, Stephen Gallagher: RPM Scriptlet Reform School)[https://www.youtube.com/watch?v=kE-8ZRISFqA#t=2m33]
 
 ## Yum
 
