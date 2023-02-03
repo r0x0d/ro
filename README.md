@@ -15,69 +15,81 @@ open an issue pointing out the link and why you think it's a good resource. Any
 pull requests will be welcome, but only if I find that your resource is actually
 valuable.
 
-# Table of Contents
-
-- [Resources](#resources)
-  - [Programming](#programming)
-    - [Docker](#docker)
-    - [Python](#python)
-  - [Game Development](#game-development)
-  - [Security](#security)
-    - [Linux](#linux)
-  - [Git](#git)
-  - [Misc](#misc)
-
 # Resources
 
 All of my resources below. Enjoy.
 
-## Programming
+# DevOps
 
-### Docker
+## Docker
 
 - (Article) [Building Minimal Docker Containers for Python Applications](https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3)
 - (Article) [The best Docker base image for your Python application (Sep 2022)](https://pythonspeed.com/articles/base-image-python-docker-images/)
 - (Article) [Lighten your Python image with Docker multi-stage builds](https://gabnotes.org/lighten-your-python-image-docker-multi-stage-builds/)
 - (Article) [Multi-stage builds #2: Python specifics](https://pythonspeed.com/articles/multi-stage-docker-python/)
 
-### Python
-
-- (Article) [Finding broken slots in popular Python libraries (and so can you!)](https://dev.arie.bovenberg.net/blog/finding-broken-slots-in-popular-python-libraries/)
-- (Article) [The Global Object Pattern](https://python-patterns.guide/python/module-globals/)
-
-## Game Development
+# Game Development
 
 - (Wiki) [Thoughts on Combat Models](http://www.roguebasin.com/index.php?title=Thoughts_on_Combat_Models#Determining_whether_you_hit)
 - (Wiki) [List of articles for Roguelike development](http://www.roguebasin.com/index.php/Articles)
 - (Exchange) [How to develop RPG Damage Formulas?](https://gamedev.stackexchange.com/questions/14309/how-to-develop-rpg-damage-formulas)
 
-## Security
+## Game Design 
 
-### Authentication
+- (Article) [How I Learned to Write Compelling Interactive Fiction](https://www.superjumpmagazine.com/how-i-learned-to-write-compelling-interactive-fiction/)
 
-- (Article) [What Is Federated Authentication? How It Improves Security](https://learn.g2.com/federated-authentication)
-
-### Linux
-
-- (Guideline) [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide/wiki)
-
-## Git
+# Git
 
 - (Article) [Scaling Git’s garbage collection](https://github.blog/2022-09-13-scaling-gits-garbage-collection/)
 - (Aritcle) [My unorthodox, branchless git workflow](https://drewdevault.com/2020/04/06/My-weird-branchless-git-workflow.html)
 
-## Virtualization
+# Linux
 
-### Virtio
+- (Guideline) [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide/wiki)
+- (Aritcle) [Linux Console Essential – Virtual Terminals, Terminal Emulation and configuring locale](https://grimoire.carcano.ch/blog/linux-console-essential-virtual-terminals-terminal-emulation-locale/)
 
-- (Article) [QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine](https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/)
-- (Article) [Sharing files with Virtiofs](https://libvirt.org/kbase/virtiofs.html)
-
-## Misc
+# Misc
 
 Usually things that I don't know how to proper tag.
 
+- (Aritcle) [Hardening Terraform CI/CD — Building a Reliable Terraform Code](https://medium.com/@calvineotieno010/hardening-terraform-ci-cd-building-a-reliable-terraform-code-ff76eafaf1e1)
 - (Article) [How a single developer dropped AWS costs by 90%, then disappeared.](https://medium.com/@maximetopolov/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a)
 - (Article) [History++ - A Better Way to Do Versioning](https://blog.replit.com/history2-release)
 - (Article) [How we tripled max concurrent jobs to boost performance of GitHub Actions](https://github.blog/2022-09-16-how-we-tripled-max-concurrent-jobs-to-boost-performance-of-github-actions/)
 - (Article) [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
+- (Article) [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
+- (Video)   [Does Your Editor Matter?](https://www.youtube.com/watch?v=rNsWTWvm8uw)
+
+# Package Managers
+
+## RPM 
+
+- (Manual) (RPM Dependencies)[https://rpm-software-management.github.io/rpm/manual/dependencies.html]
+- (Article) (What is a Dependency, Anyway)[https://weldr.io/RPM-Dependencies/]
+- (Article) (Unpacking RPM: an introduction)[https://weldr.io/Unpacking-RPM-intro/]
+- (Article) (Unpacking RPM: package names)[https://weldr.io/Unpacking-RPM-names/]
+
+## Yum
+
+- (Article) (Working with package dependencies on Red Hat Linux)[https://linuxconfig.org/working-with-package-dependencies-on-red-hat-linux]
+
+# Programming
+
+## Python
+
+- (Article) [Finding broken slots in popular Python libraries (and so can you!)](https://dev.arie.bovenberg.net/blog/finding-broken-slots-in-popular-python-libraries/)
+- (Article) [The Global Object Pattern](https://python-patterns.guide/python/module-globals/)
+- (Article) [Formalizing f-strings](https://lwn.net/Articles/919426/)
+
+# Security
+
+## Authentication
+
+- (Article) [What Is Federated Authentication? How It Improves Security](https://learn.g2.com/federated-authentication)
+
+# Virtualization
+
+## Virtio
+
+- (Article) [QEMU/KVM + virtio-fs - Sharing a host directory with a virtual machine](https://www.tauceti.blog/posts/qemu-kvm-share-host-directory-with-vm-with-virtio/)
+- (Article) [Sharing files with Virtiofs](https://libvirt.org/kbase/virtiofs.html)
