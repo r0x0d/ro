@@ -59,6 +59,7 @@ Usually things that I don't know how to proper tag.
 - (Article) [Dependabot now alerts for vulnerable GitHub Actions](https://github.blog/2022-08-09-dependabot-now-alerts-for-vulnerable-github-actions/)
 - (Article) [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 - (Video)   [Does Your Editor Matter?](https://www.youtube.com/watch?v=rNsWTWvm8uw)
+- (Article) [How to Develop a Strong Work Ethic](https://hbr.org/2022/09/how-to-develop-a-strong-work-ethic)
 
 # Package Managers
 
