@@ -82,6 +82,8 @@ Usually things that I don't know how to proper tag.
 - (Article) [Finding broken slots in popular Python libraries (and so can you!)](https://dev.arie.bovenberg.net/blog/finding-broken-slots-in-popular-python-libraries/)
 - (Article) [The Global Object Pattern](https://python-patterns.guide/python/module-globals/)
 - (Article) [Formalizing f-strings](https://lwn.net/Articles/919426/)
+- (Article) [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)
+- (Article) [Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 
 # Security
 
