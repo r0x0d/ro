@@ -60,6 +60,7 @@ Usually things that I don't know how to proper tag.
 - (Article) [I scanned every package on PyPi and found 57 live AWS keys](https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/)
 - (Video)   [Does Your Editor Matter?](https://www.youtube.com/watch?v=rNsWTWvm8uw)
 - (Article) [How to Develop a Strong Work Ethic](https://hbr.org/2022/09/how-to-develop-a-strong-work-ethic)
+- (Article) [An ancient practice that we keep doing wrong: Code Review.](https://dev.to/smmd/an-ancient-practice-that-we-keep-doing-wrong-code-review-37m7)
 
 # Package Managers
 
