@@ -77,6 +77,10 @@ Usually things that I don't know how to proper tag.
 
 # Programming
 
+## Performance
+
+- (Article) ["Clean" Code, Horrible Performance](https://www.computerenhance.com/p/clean-code-horrible-performance)
+
 ## Python
 
 - (Article) [Finding broken slots in popular Python libraries (and so can you!)](https://dev.arie.bovenberg.net/blog/finding-broken-slots-in-popular-python-libraries/)
